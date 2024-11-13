@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Hook Master: Mafia City" height="1136" width="640">
+    <Description>Hook Master: Mafia City - A Puzzle Game on GameMonetize</Description>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <html>
+        <body style="text-align:center;">
+          <h1>Hook Master: Mafia City</h1>
+          <p>Hook Master: Mafia City is a casual puzzle game that combines puzzle solving, escape, and collecting elements. In this dangerous city, you solve puzzles with a grappling hook and escape enemies!</p>
+          <p><strong>Instructions:</strong> Mouse click or tap to play</p>
+          <iframe src="https://html5.gamemonetize.com/54tbebtarcy76f9mjmkxc5y8omkw60d4/" width="640" height="1136" frameborder="0" allowfullscreen></iframe>
+          <br>
+          <img src="https://img.gamemonetize.com/54tbebtarcy76f9mjmkxc5y8omkw60d4/512x384.jpg" alt="Hook Master: Mafia City Thumbnail" width="320" height="240">
+        </body>
+      </html>
+    ]]>
+  </Content>
+</Module>
