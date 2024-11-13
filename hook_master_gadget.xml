@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Hook Master: Mafia City" height="1136" width="640">
+    <Description>Hook Master: Mafia City - A Puzzle Game</Description>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+      <html>
+        <body style="text-align:center;">
+          <h1>Hook Master: Mafia City</h1>
+          <iframe src="https://html5.gamemonetize.com/54tbebtarcy76f9mjmkxc5y8omkw60d4/" width="640" height="1136" frameborder="0" allowfullscreen></iframe>
+        </body>
+      </html>
+    ]]>
+  </Content>
+</Module>
